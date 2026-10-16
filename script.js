@@ -2,7 +2,7 @@
 const DATA={name:"Aditya S. Shekhawat",email:"aditya2006@yopmail.com",resume:"#",
 roles:["AI Engineer","Full Stack Developer","ML Engineer","Backend Developer","Creator","Builder"],
 about:["Currently a Cyber Security Student","Describe what you build and what drives you."],
-edu:"B.Tech · Your College · 2022–2026 · CGPA 0.0",
+edu:"B.Tech · JECRC UNIVERSITY · 2025–2029 · CGPA 0.0",
 stats:[["10+","Projects"],["3","Internships"],["5+","Certifications"],["1k+","Commits"]],
 ach:["Achievement one","Achievement two","Achievement three"],
 skills:[{n:"Python",d:"Primary language for ML and backend.",e:"3 yrs",p:"Project 1, 2",s:"NumPy · FastAPI"},{n:"Machine Learning",d:"Models from research to production.",e:"2 yrs",p:"Project 1",s:"PyTorch · scikit-learn"},{n:"React / Next.js",d:"Fast, accessible interfaces.",e:"2 yrs",p:"Project 2, 3",s:"TypeScript · Tailwind"},{n:"Backend",d:"APIs, databases and infra.",e:"2 yrs",p:"Project 3",s:"Node · PostgreSQL"}],
