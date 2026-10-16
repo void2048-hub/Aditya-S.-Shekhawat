@@ -1,7 +1,7 @@
 /* ✏️ Edit DATA only. */
 const DATA={name:"Aditya S. Shekhawat",email:"aditya2006@yopmail.com",resume:"#",
 roles:["AI Engineer","Full Stack Developer","ML Engineer","Backend Developer","Creator","Builder"],
-about:["Write 4–6 lines about yourself here.","Describe what you build and what drives you."],
+about:["Currently a Cyber Security Student","Describe what you build and what drives you."],
 edu:"B.Tech · Your College · 2022–2026 · CGPA 0.0",
 stats:[["10+","Projects"],["3","Internships"],["5+","Certifications"],["1k+","Commits"]],
 ach:["Achievement one","Achievement two","Achievement three"],
