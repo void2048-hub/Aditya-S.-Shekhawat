@@ -1,5 +1,5 @@
 /* ✏️ Edit DATA only. */
-const DATA={name:"Your Full Name",email:"you@example.com",resume:"#",
+const DATA={name:"Aditya S. Shekhawat",email:"aditya2006@yopmail.com",resume:"#",
 roles:["AI Engineer","Full Stack Developer","ML Engineer","Backend Developer","Creator","Builder"],
 about:["Write 4–6 lines about yourself here.","Describe what you build and what drives you."],
 edu:"B.Tech · Your College · 2022–2026 · CGPA 0.0",
